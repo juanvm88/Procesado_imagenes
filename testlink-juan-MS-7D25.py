@@ -26,8 +26,10 @@ for i in range(N):
   sub=sub[sub['frame']>i*(Nframe/N)]
   
   linked=tp.link(sub,2,memory=3)
+  linked_filter=tp.filter_stubs(linked,threshold=75)
   
   linked.to_csv(f'datalink_{i}.csv')
+  linked_filter.to_csv(f'datalink_filter_{i}.csv')
 
     
     
