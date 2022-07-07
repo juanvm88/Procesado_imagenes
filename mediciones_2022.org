@@ -1,0 +1,20 @@
+#+title: EXPERIMENTS LAB ACTIVITY 2022
+#+STARTUP: latexpreview
+
+* Description:
+Projection of experiments fo perform in the LAB in 2022. Schedule to design after meeting.
+
+ 
+1. *Air Table* 
+   * _Moving wall (Jamming)_.- Two stages: a) Identical disks (just as a test); b) Bi-disperse system
+     (to 3D print particles).
+   * _Static 4 walls (Convection)_.- Vary air intensity so that we can track evolution of convection. I
+     would pick 2 or 3 reference particle densities. One at low density, other at moderate density
+     and a last one at higher density.
+     
+2. *Thin layer* 
+   * _Arrest phase -to- gas phase transition_.- Pick standard values of frequency and layer height, say
+     50 Hz and h=1.750 \( \sigma) \).
+   * _Thermal memory.-_ Design protoclol for detection and measurement of fast transients.
+
+
