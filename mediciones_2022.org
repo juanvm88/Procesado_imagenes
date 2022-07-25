@@ -14,7 +14,8 @@ Projection of experiments fo perform in the LAB in 2022. Schedule to design afte
      
 2. *Thin layer* 
    * _Arrest phase -to- gas phase transition_.- Pick standard values of frequency and layer height, say
-     50 Hz and h=1.750 \( \sigma) \).
+     50 Hz and h=1.750 \( \sigma) \). The transition to gas occurs when the system is dense enough. Therefore, 
+     the objective is to perform series of varying density at constant frequency and vibration amplitude.
    * _Thermal memory.-_ Design protoclol for detection and measurement of fast transients.
 
 
